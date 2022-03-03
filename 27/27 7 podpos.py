@@ -26,7 +26,3 @@ for i in range(n):
         statsum[ current_sum % 2077 ] = current_sum
         statlen[ current_sum % 2077 ] = i + 1
 print(max_minlen)
-        
-        
-
-    
